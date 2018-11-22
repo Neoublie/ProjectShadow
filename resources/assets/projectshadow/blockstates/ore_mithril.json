@@ -1,0 +1,10 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "projectshadow:ore_mithril"
+	},
+	"variants": {
+		"normal": [{}],
+		"inventory": [{}]
+	}
+}

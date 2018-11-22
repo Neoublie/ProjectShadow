@@ -1,0 +1,32 @@
+item.projectshadow.itemIngotCopper.name=Copper ingot
+item.projectshadow.itemIngotTin.name=Tin ingot
+item.projectshadow.itemIngotBronze.name=Bronze ingot
+item.projectshadow.itemIngotSilver.name=Silver ingot
+item.projectshadow.itemIngotLead.name=Lead ingot
+item.projectshadow.itemIngotMithril.name=Mithril ingot
+
+item.projectshadow.itemChunkCopper.name=Copper chunk
+item.projectshadow.itemChunkTin.name=Tin chunk
+item.projectshadow.itemChunkSilver.name=Silver chunk
+item.projectshadow.itemChunkLead.name=Lead chunk
+item.projectshadow.itemChunkMithril.name=Mithril chunk
+
+item.projectshadow.itemNuggetCopper.name=Copper nugget
+item.projectshadow.itemNuggetTin.name=Tin nugget
+item.projectshadow.itemNuggetSilver.name=Silver nugget
+item.projectshadow.itemNuggetLead.name=Lead nugget
+item.projectshadow.itemNuggetMithril.name=Mithril nugget
+
+tile.projectshadow.blockOreCopper.name=Copper ore
+tile.projectshadow.blockOreTin.name=Tin ore
+tile.projectshadow.blockOreSilver.name=Silver Ore
+tile.projectshadow.blockOreLead.name=Lead ore
+tile.projectshadow.blockOreMithril.name=Mithril ore
+
+
+container.blacksmithsmelter="Blacksmith smelter"
+
+tile.projectshadow.blockBlacksmithForge.name=Blacksmith forge
+
+itemGroup.projectshadow.PSBlockTab=Project Shadow (Blocks)
+itemGroup.projectshadow.PSItemTab=Project Shadow (Items)

@@ -1,0 +1,12 @@
+{
+	"variants": {
+        "burning=false,facing=north": { "model": "projectshadow:blacksmithsmelter" },
+        "burning=false,facing=east": { "model": "projectshadow:blacksmithsmelter", "y": 90 },
+        "burning=false,facing=south": { "model": "projectshadow:blacksmithsmelter", "y": 180 },
+        "burning=false,facing=west": { "model": "projectshadow:blacksmithsmelter", "y": 270 },
+        "burning=true,facing=north": { "model": "projectshadow:lit_blacksmithsmelter" },
+        "burning=true,facing=east": { "model": "projectshadow:lit_blacksmithsmelter", "y": 90 },
+        "burning=true,facing=south": { "model": "projectshadow:lit_blacksmithsmelter", "y": 180 },
+        "burning=true,facing=west": { "model": "projectshadow:lit_blacksmithsmelter", "y":270  }
+    }
+}
